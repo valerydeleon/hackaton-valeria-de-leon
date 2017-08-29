@@ -1,0 +1,32 @@
+body{
+  padding-top: 70px;
+}
+
+.seisAnidUno{
+  background-color: #d736d6;
+  height: 300px;
+  max-width: 90%;
+  border: solid 2px;
+  border-color: #2b2b2b;
+  padding: 10px;
+}
+
+.seisAnidDos{
+  background-color: #f9a82e;
+  height: 300px;
+  border: solid 2px;
+  border-color: #2b2b2b;
+  padding: 10px;
+}
+
+.doseAnid{
+  background-color: #2ef9aa;
+  height: 400px;
+  border: solid 2px;
+  border-color: #2b2b2b;
+  padding: 10px;
+}
+
+.nav-link{
+  padding: 10px;
+}
